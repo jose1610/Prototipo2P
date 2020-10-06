@@ -1,0 +1,16 @@
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Pedidos.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Abrir.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Ayuda.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Catalogos.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Herramienta.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Informe.resources
