@@ -106,6 +106,9 @@
     <EmbeddedResource Include="Informe.resx">
       <DependentUpon>Informe.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MantenimientoPedido.resx">
+      <DependentUpon>MantenimientoPedido.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Pedidos.resx">
       <DependentUpon>Pedidos.cs</DependentUpon>
     </EmbeddedResource>

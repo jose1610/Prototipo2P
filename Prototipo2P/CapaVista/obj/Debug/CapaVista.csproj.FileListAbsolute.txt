@@ -14,3 +14,6 @@ D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVi
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Catalogos.resources
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Herramienta.resources
 D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.Informe.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\obj\Debug\CapaVista.MantenimientoPedido.resources
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\bin\Debug\CapaModelo.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaVista\bin\Debug\CapaModelo.pdb
