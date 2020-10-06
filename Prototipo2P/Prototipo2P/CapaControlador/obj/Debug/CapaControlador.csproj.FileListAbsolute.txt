@@ -1,0 +1,9 @@
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Clases Universidad\Analisis de Sistemas II\Segundo Parcial\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
